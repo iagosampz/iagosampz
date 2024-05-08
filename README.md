@@ -9,7 +9,5 @@ tradutor de jogos do rpg maker 🧙‍♂️
 
 ---
 <img src = "Youtube_logo.png" width = "80px">    <img src = "Construct_3_Logo.svg.png" width = "60px">     <img src = "Google_Translate_logo.svg.png" width = "60px">
-<div>
-https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
 
-
+<img src = "YouTube-FF0000.svg" width = "250px"> <img src = "YouTube-FF0000.svg" width = "250px">
