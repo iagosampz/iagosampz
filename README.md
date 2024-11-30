@@ -1,4 +1,4 @@
-<img src = "in-stars-in-time.gif" width = "313px" align = "right">
+<img src = "in-stars-in-time.gif" width = "307px" align = "right">
 
 seja bem vindo a o meu github <3
 
