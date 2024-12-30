@@ -8,5 +8,5 @@ desenvolvedor de jogos do construct 3 ⚙
 
 tradutor de jogos do rpg maker MV 🧙‍♂️
 
----
+
 <img src = "Youtube_logo.png" width = "80px">    <img src = "Construct_3_Logo.svg.png" width = "60px">     <img src = "Google_Translate_logo.svg.png" width = "60px">
